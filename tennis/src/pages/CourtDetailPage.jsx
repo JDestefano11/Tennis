@@ -103,9 +103,9 @@ const CourtDetailPage = () => {
   }
 
   return (
-    <div className="max-w-7xl mx-auto px-4">
+    <div className="max-w-7xl mx-auto px-4 pt-3 sm:pt-4 md:pt-5">
       {/* Hero section with image and main details */}
-      <div className="bg-white overflow-hidden rounded-lg shadow-lg mb-6 xl:mb-8">
+      <div className="bg-white overflow-hidden rounded-lg shadow-lg mb-6 xl:mb-8 mt-2 md:mt-0">
         <div className="relative">
           {/* Full width image with different heights for responsive design - no animation */}
           <div className="relative h-72 sm:h-96 lg:h-[500px] w-full">
