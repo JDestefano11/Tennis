@@ -1,4 +1,3 @@
-echo '# Tennis Courts Finder
 
 ![Tennis Courts App](./tennis/public/tennis-ball.svg)
 
