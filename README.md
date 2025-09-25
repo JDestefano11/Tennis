@@ -1,5 +1,5 @@
 
-![Tennis Courts App](./tennis/public/tennis-ball.svg)
+## Tennis Court Application
 
 A modern web application for discovering and exploring tennis courts. This intuitive platform allows users to browse courts by surface type, view detailed information about each facility, and read or submit reviews.
 
